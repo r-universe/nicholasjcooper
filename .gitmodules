@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "NCmisc"]
 	path = NCmisc
 	url = https://github.com/cran/NCmisc
-	shallow = true
-	registered = true
 [submodule "reader"]
 	path = reader
 	url = https://github.com/cran/reader
-	shallow = true
-	registered = true
